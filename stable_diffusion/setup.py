@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='latent-diffusion',
+    name='diffree_stable_diffusion',
     version='0.0.1',
     description='',
     packages=find_packages(),
